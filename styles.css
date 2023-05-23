@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.first-row{
+	display:flex;
+	gap:10px;
+}
+
+.second-row{
+	display:flex;
+	gap:10px;
+}
+.third-row{
+	display:flex;
+	gap:10px;
+}
